@@ -1,13 +1,6 @@
 {
   "products": [
     {
-      "title": "Mens Casual Premium Slim Fit T-Shirts ",
-      "price": 22.3,
-      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-      "image": "https://www.bing.com/images/search?view=detailV2&ccid=iAhcp6m%2f&id=D03C14D022524F9A4B82EB0511A801A22E82BF84&thid=OIP.iAhcp6m_91O-ClK79h8EQQHaFj&mediaurl=https%3a%2f%2fwonderfulengineering.com%2fwp-content%2fuploads%2f2014%2f10%2fimage-wallpaper-15.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.88085ca7a9bff753be0a52bbf61f0441%3frik%3dhL%252bCLqIBqBEF6w%26pid%3dImgRaw%26r%3d0&exph=1200&expw=1600&q=image&simid=608021233424615841&FORM=IRPRST&ck=7801324825C266999472762AEE3B00ED&selectedIndex=0",
-      "id": 2
-    },
-    {
       "id": 3,
       "title": "Mens Cotton Jacket",
       "price": 55.99,
@@ -92,16 +85,12 @@
       }
     },
     {
-      "id": 10,
       "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
       "price": 109,
       "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
       "category": "electronics",
       "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 470
-      }
+      "id": 10
     }
   ]
 }
